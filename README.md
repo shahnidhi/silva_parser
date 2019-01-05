@@ -4,7 +4,7 @@ A script to parse SILVA taxonomy and format it to keep only basic seven levels o
 
 For any queries, please either ask on github issue page or send an email to Nidhi Shah (nidhi@cs.umd.edu).
 
-###Running the script
+### Running the script
 ```
 python parser.py -h
 usage: parser.py [-h] -tax TAXONOMY_FILE -map MAP_FILE [-out OUTPUT_FILE]
